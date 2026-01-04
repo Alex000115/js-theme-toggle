@@ -1,0 +1,19 @@
+body{
+  font-family:Arial;
+  height:100vh;
+  display:flex;
+  justify-content:center;
+  align-items:center;
+  transition:.3s;
+}
+.light{
+  background:#f8fafc;
+  color:#020617;
+}
+.dark{
+  background:#020617;
+  color:#f8fafc;
+}
+button{
+  padding:10px 18px;
+}
